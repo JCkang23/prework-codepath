@@ -27,9 +27,9 @@ The following **required** functionality is completed:
 
 ... Favorite Apps ...
 
-• Telegram\n
-    - Voice-to-Text conversation\n
-    - Disappearing messages (voice messages, images)\n
+• Telegram
+    - Voice-to-Text conversation
+    - Disappearing messages (voice messages, images)
 • WhatsApp on iOS
     - Sending video messages to contacts
     - Implementing WhatsApp communities
