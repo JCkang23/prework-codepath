@@ -16,10 +16,10 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/58d323cfbc6541d2a480dcf5aa72468f">
+    <a href="https://www.loom.com/share/06d9bffe5b7c4fbd8e20853a2f79b987">
     </a>
-    <a href="https://www.loom.com/share/58d323cfbc6541d2a480dcf5aa72468f">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/58d323cfbc6541d2a480dcf5aa72468f-with-play.gif">
+    <a href="https://www.loom.com/share/06d9bffe5b7c4fbd8e20853a2f79b987">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/06d9bffe5b7c4fbd8e20853a2f79b987-with-play.gif">
     </a>
   </div>
 
